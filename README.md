@@ -31,7 +31,7 @@ project-folder
 │
 ├── images/
 ├── index.html
-├── style.css
+├── styles.css
 └── README.md
 
 ## 🎯 Learning Objectives
