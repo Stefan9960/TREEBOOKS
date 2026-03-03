@@ -29,10 +29,9 @@ The main purpose of the project was to practice semantic HTML structure, layout 
 
 project-folder
 │
-├── index.html
-├── css/
-│   └── style.css
 ├── images/
+├── index.html
+├── style.css
 └── README.md
 
 ## 🎯 Learning Objectives
